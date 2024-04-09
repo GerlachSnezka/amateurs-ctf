@@ -1,0 +1,978 @@
+{
+  "kind": "goodChallenges",
+  "message": "The retrieval of challenges was successful.",
+  "data": [
+    {
+      "files": [],
+      "description": "[survey](https://forms.gle/yhv7NoHnkzFPwJbm8)",
+      "author": "flocto",
+      "points": 1,
+      "id": "10a4c3fd-f952-4a59-bbb2-0be2e8d9654c",
+      "name": "survey",
+      "category": "misc",
+      "solves": 174
+    },
+    {
+      "files": [
+        {
+          "url": "https://storage.amateurs.team/uploads/0bf5cc1a5ff134b5af61ce72403aeff1ac5b8e799d1aa030a29750254d780b7b/bot.js",
+          "name": "bot.js"
+        }
+      ],
+      "description": "  write a program to help the bee hive proliferate!  \n  [buzz](https://busy-bee-amateurs-ctf-2024.pages.dev)  \n  [admin bot](http://admin-bot.amt.rs/busy-bee)  \n\n  [admin bot chromium build (117.0.5938.88)](https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/117.0.5938.88/linux64/chrome-linux64.zip)\n",
+      "author": "voxal",
+      "points": 485,
+      "id": "bcds-web-busy-bee",
+      "name": "busy-bee",
+      "category": "web",
+      "solves": 4
+    },
+    {
+      "files": [],
+      "description": "We're building the next generation flag sharing social media inside discord! Join us for the fun flag sharing activity, well uhm actually I might need to finish testing my code. Use code \"flag\" to get instant access to the flag! `https://discord.com/oauth2/authorize?client_id=1223421353907064913&permissions=0&scope=bot`\n",
+      "author": "smashmaster",
+      "points": 472,
+      "id": "bcds-misc-bears-flagcord",
+      "name": "bears-flagcord",
+      "category": "misc",
+      "solves": 7
+    },
+    {
+      "files": [
+        {
+          "url": "https://storage.amateurs.team/uploads/5aa10d4d863574ef8577d60539cc2366180f1f9fc6b4d0154311f3adaba84434/mian.py",
+          "name": "mian.py"
+        },
+        {
+          "url": "https://storage.amateurs.team/uploads/7dbec19e656c32cd95a46700cfe4c3fc3434d121b19fcad3609b4d760292ec18/output.txt",
+          "name": "output.txt"
+        }
+      ],
+      "description": "can you make sure i didn't make a typo?",
+      "author": "flocto",
+      "points": 245,
+      "id": "bcds-rev-typo",
+      "name": "typo",
+      "category": "rev",
+      "solves": 163
+    },
+    {
+      "files": [
+        {
+          "url": "https://storage.amateurs.team/uploads/c4a2d34b992de3f01128f6a7b8b04e2a9e0caf2372e9e7319e6afb152dd2ff39/dist.tar.xz",
+          "name": "dist.tar.xz"
+        }
+      ],
+      "description": "bearsay(1)\n\nbearsay - configurable speaking/thinking bear (and a bit more)\n\n`nc chal.amt.rs 1338`",
+      "author": "unvariant",
+      "points": 271,
+      "id": "bcds-pwn-bearsay",
+      "name": "bearsay",
+      "category": "pwn",
+      "solves": 128
+    },
+    {
+      "files": [
+        {
+          "url": "https://storage.amateurs.team/uploads/7b52d73bd3e7bd24b2977130197e0a66a101ce74bbfcdf161e0a797981cbe124/checker.py",
+          "name": "checker.py"
+        },
+        {
+          "url": "https://storage.amateurs.team/uploads/48d9297693ad4db708551215dcea6ebb1ff915314867221dba0423ded7605617/out.zip",
+          "name": "out.zip"
+        }
+      ],
+      "description": "What is life if not incomprehensible nonsense? Please untangle this for me. I'm hungry.\n\nFlag is valid ascii.\n",
+      "author": "hellopir2",
+      "points": 485,
+      "id": "bcds-misc-cookie",
+      "name": "cookie",
+      "category": "misc",
+      "solves": 4
+    },
+    {
+      "files": [
+        {
+          "url": "https://storage.amateurs.team/uploads/9ba7e8fd9842ba75f9a547686242bb5e74dc9dd63a52e1c95b2b3fa06bb820d2/revtale-1.zip",
+          "name": "revtale-1.zip"
+        }
+      ],
+      "description": "Once upon a time...there was a binary with a flag.",
+      "author": "smashmaster",
+      "points": 411,
+      "id": "bcds-rev-revtale-1",
+      "name": "revtale-1",
+      "category": "rev",
+      "solves": 26
+    },
+    {
+      "files": [
+        {
+          "url": "https://storage.amateurs.team/uploads/4db56f0ac3c69d8551ab9e1d23faab2c3e0e185c2cc15c08e3ad0c6f152e7659/dist.tar.xz",
+          "name": "dist.tar.xz"
+        }
+      ],
+      "description": "Don't you love it when people take perfectly functional rust projects and rewrite them in c?\n\n`nc chal.amt.rs 1340`",
+      "author": "unvariant",
+      "points": 495,
+      "id": "bcds-pwn-baby-bear-blockchain",
+      "name": "baby-bear-blockchain",
+      "category": "pwn",
+      "solves": 2
+    },
+    {
+      "files": [
+        {
+          "url": "https://storage.amateurs.team/uploads/c0e75e2181c4eb3073fe6aaba2008236e7683508e7c460404b08ade516afe977/laughing.wav",
+          "name": "laughing.wav"
+        }
+      ],
+      "description": "You can make anything sound like laughing if you try hard enough with an imagination. mus_smile",
+      "author": "smashmaster",
+      "points": 262,
+      "id": "bcds-misc-densely-packed",
+      "name": "densely-packed",
+      "category": "misc",
+      "solves": 140
+    },
+    {
+      "files": [
+        {
+          "url": "https://storage.amateurs.team/uploads/5b31cc88a2336e83038ec947dbc1e142dae5bcf9e173449b049ce7b5338ff041/ecsuses.py",
+          "name": "ecsuses.py"
+        },
+        {
+          "url": "https://storage.amateurs.team/uploads/661ff41c6ffdc2e1a90a10b958837eeaa85c92f8458c1b8a78ded880fa6d40e1/flagtxt",
+          "name": "flagtxt"
+        }
+      ],
+      "description": "Was last year's excuse-me not crypto enough for you? I hope this one satisfies those who complained.\n",
+      "author": "hellopir2",
+      "points": 495,
+      "id": "bcds-crypto-ecsuses",
+      "name": "ecsuses",
+      "category": "crypto",
+      "solves": 2
+    },
+    {
+      "files": [
+        {
+          "url": "https://storage.amateurs.team/uploads/b72d40d848e515e23047d17b95d61bc81c184f6d2c0d65a5436fb6fc558ce9d0/tfsn.tar.gz",
+          "name": "tfsn.tar.gz"
+        }
+      ],
+      "description": "amateursCTF is too hard :( so i made this website for people to share their flags. \ni made my favorite flag my password though, but i made my app so secure there is no way you steal it. (@/admin)\n[http://tfsn.amt.rs](http://tfsn.amt.rs)\n\n***Note: DO NOT ACTUALLY SHARE FLAGS***\n",
+      "author": "voxal",
+      "points": 495,
+      "id": "bcds-web-the-flag-sharing-network",
+      "name": "the-flag-sharing-network",
+      "category": "web",
+      "solves": 2
+    },
+    {
+      "files": [
+        {
+          "url": "https://storage.amateurs.team/uploads/07aac9ac7b147f3b274fa1fcfcf832e4278ed29ed2b42fbc34a8a5c2764999ea/dist.tar.xz",
+          "name": "dist.tar.xz"
+        }
+      ],
+      "description": "How many different ways are there to make a syscall?\n\n`nc chal.amt.rs 1341`",
+      "author": "unvariant",
+      "points": 397,
+      "id": "bcds-pwn-baby-sandbox",
+      "name": "baby-sandbox",
+      "category": "pwn",
+      "solves": 32
+    },
+    {
+      "files": [
+        {
+          "url": "https://storage.amateurs.team/uploads/7e696acfb781d947871c06d4363d43c40aabc95f6af45f77c6468b7b5ea9cbd6/faked-onion.py",
+          "name": "faked-onion.py"
+        }
+      ],
+      "description": "Are you as fake as this onion?\n\n`nc chal.amt.rs 1414`\n",
+      "author": "flocto",
+      "points": 285,
+      "id": "bcds-crypto-faked-onion",
+      "name": "faked-onion",
+      "category": "crypto",
+      "solves": 112
+    },
+    {
+      "files": [
+        {
+          "url": "https://storage.amateurs.team/uploads/e02f6cb26583c1bac916b0d6867dec88f76f0e88ad1155181898436e723a608b/LoginpageApplication.java",
+          "name": "LoginpageApplication.java"
+        }
+      ],
+      "description": "  i ran out of ideas so here is a login page challenge  \n  [http://creative-login-page.amt.rs](http://creative-login-page.amt.rs)\n",
+      "author": "voxal",
+      "points": 433,
+      "id": "bcds-web-creative-login-page-challenge",
+      "name": "creative-login-page-challenge",
+      "category": "web",
+      "solves": 18
+    },
+    {
+      "files": [
+        {
+          "url": "https://storage.amateurs.team/uploads/b09db84f4e57f8fbf39c2afb235f13e1ebf780b4833a13ba08e7afdf08e09622/index.js",
+          "name": "index.js"
+        }
+      ],
+      "description": "  what options do i have?  \n  [http://denied.amt.rs](http://denied.amt.rs)\n",
+      "author": "voxal",
+      "points": 54,
+      "id": "bcds-web-denied",
+      "name": "denied",
+      "category": "web",
+      "solves": 849
+    },
+    {
+      "files": [
+        {
+          "url": "https://storage.amateurs.team/uploads/27c78558abe7141148510f0c5191b4b495039935f4c25366475cb712519577df/dist.tar.xz",
+          "name": "dist.tar.xz"
+        }
+      ],
+      "description": "Turns out I lied last year.\n\nCan you golf an even smaller x64 elf file?\n\nhint: have you tried using `ET_DYN` yet?\n\n`nc chal.amt.rs 1345`",
+      "author": "unvariant",
+      "points": 485,
+      "id": "bcds-pwn-summit",
+      "name": "summit",
+      "category": "pwn",
+      "solves": 4
+    },
+    {
+      "files": [],
+      "description": "wow sanity check go join the discord.",
+      "author": "flocto",
+      "points": 57,
+      "id": "bcds-misc-sanity-check",
+      "name": "sanity-check",
+      "category": "misc",
+      "solves": 823
+    },
+    {
+      "files": [
+        {
+          "url": "https://storage.amateurs.team/uploads/437417445c18a2425679dce4bdb0393006045d389ae9f56c70f731e47cf1ea4d/output.txt",
+          "name": "output.txt"
+        },
+        {
+          "url": "https://storage.amateurs.team/uploads/c96fd27f32464acd3bb34a5dc3e5267e4ce7bf4da26df1f4a02dae4a3172ac88/unsuspicious-rsa.py",
+          "name": "unsuspicious-rsa.py"
+        }
+      ],
+      "description": "I need help factoring this modulus, it looks suspicious, but I can't factor using any conventional methods.\n",
+      "author": "hellopir2",
+      "points": 249,
+      "id": "bcds-crypto-unsuspicious-rsa",
+      "name": "unsuspicious-rsa",
+      "category": "crypto",
+      "solves": 157
+    },
+    {
+      "files": [
+        {
+          "url": "https://storage.amateurs.team/uploads/6fda711f5564040fda0c1bf21bf35692b9b5f7831f3363c8e872ca52e9cc96e9/dist.tar.xz",
+          "name": "dist.tar.xz"
+        }
+      ],
+      "description": "We decided to make our own custom super secure database with absolutely no bugs!\n\n`nc chal.amt.rs 1346`",
+      "author": "unvariant",
+      "points": 358,
+      "id": "bcds-pwn-heaps-of-fun",
+      "name": "heaps-of-fun",
+      "category": "pwn",
+      "solves": 52
+    },
+    {
+      "files": [
+        {
+          "url": "https://storage.amateurs.team/uploads/74fa521176e3a1c55201f981ed7e457ea9932b81f05271f85fc3493eea5d4670/dist.tar.xz",
+          "name": "dist.tar.xz"
+        }
+      ],
+      "description": "Turing complete relocations are fun and all, but you can use them to pop a shell?\n\n`nc chal.amt.rs 1342`",
+      "author": "unvariant",
+      "points": 500,
+      "id": "bcds-pwn-linker-as-a-service",
+      "name": "linker-as-a-service",
+      "category": "pwn",
+      "solves": 1
+    },
+    {
+      "files": [
+        {
+          "url": "https://storage.amateurs.team/uploads/fb857a406238f7980adc37c93289652594ba60670526681c657488b22268b854/bad-3-corrupt_flag.tar.xz",
+          "name": "bad-3-corrupt_flag.tar.xz"
+        }
+      ],
+      "description": "help my flag got supply chain attacked :((",
+      "author": "flocto",
+      "points": 481,
+      "id": "bcds-misc-supply-chain",
+      "name": "supply-chain",
+      "category": "misc",
+      "solves": 5
+    },
+    {
+      "files": [
+        {
+          "url": "https://storage.amateurs.team/uploads/9952aa28c1fe1a9599ec48480cc6e6f92293bf818ea5b62fa209b81fb894961a/main",
+          "name": "main"
+        },
+        {
+          "url": "https://storage.amateurs.team/uploads/e8de3ba4be04c957b85053c1b2e17a600bea460865cc777c78d7534239fdeca9/main_symbols",
+          "name": "main_symbols"
+        }
+      ],
+      "description": "wtf happened to my binary wtf is a Altera Nios II.",
+      "author": "flocto",
+      "points": 505,
+      "id": "bcds-rev-wtf",
+      "name": "wtf",
+      "category": "rev",
+      "solves": 0
+    },
+    {
+      "files": [
+        {
+          "url": "https://storage.amateurs.team/uploads/d99086dc5edebc42265f80cea54c417c695d379a38e27ddbd292afabbb010bc6/main",
+          "name": "main"
+        }
+      ],
+      "description": "\"wow its my favorite language to rev\" - nobody\n\n`nc chal.amt.rs 2200`\n",
+      "author": "flocto",
+      "points": 439,
+      "id": "bcds-rev-gogogaga",
+      "name": "gogogaga",
+      "category": "rev",
+      "solves": 16
+    },
+    {
+      "files": [],
+      "description": "  check out this cool font i made!  \n  [http://agile-rut.amt.rs](http://agile-rut.amt.rs)  \n  hint: if you get something that looks like the flag try pasting it into the box.\n",
+      "author": "voxal",
+      "points": 175,
+      "id": "bcds-web-agile-rut",
+      "name": "agile-rut",
+      "category": "web",
+      "solves": 305
+    },
+    {
+      "files": [
+        {
+          "url": "https://storage.amateurs.team/uploads/e0983e88875c20bc0b50135f0e67ead64d37d35206f63bbfe317d52a2a51f650/main.py",
+          "name": "main.py"
+        }
+      ],
+      "description": "okay sorry here's a real jail.\n\n`nc chal.amt.rs 2104`",
+      "author": "flocto",
+      "points": 361,
+      "id": "bcds-jail-javajail2",
+      "name": "javajail2",
+      "category": "jail",
+      "solves": 50
+    },
+    {
+      "files": [
+        {
+          "url": "https://storage.amateurs.team/uploads/8b76c4956058a471d4d4e7ce7779f90a7a1a99bd7586238dd1ed98e95b4a20d0/shell.py",
+          "name": "shell.py"
+        },
+        {
+          "url": "https://storage.amateurs.team/uploads/15db6a627cb2d269b6a69e34f1a1a6243718d8825171c55a2ee96b36ab84e165/Dockerfile",
+          "name": "Dockerfile"
+        }
+      ],
+      "description": "Somehow I think the pico one had too many unintendeds...\n\nSo I left some more in :)\n\n`nc chal.amt.rs 2100`",
+      "author": "flocto",
+      "points": 209,
+      "id": "bcds-jail-sansomega",
+      "name": "sansomega",
+      "category": "jail",
+      "solves": 227
+    },
+    {
+      "files": [
+        {
+          "url": "https://storage.amateurs.team/uploads/7a1be6b121593ec31cd443c6a50f0725526b86f36c18ca0e4b71c18efc3a61b1/dist.tar.xz",
+          "name": "dist.tar.xz"
+        }
+      ],
+      "description": "I just want to uppercase a string... why does unicode make this so hard.\n\n`nc chal.amt.rs 1337`",
+      "author": "unvariant",
+      "points": 404,
+      "id": "bcds-pwn-buffer-overflow",
+      "name": "buffer-overflow",
+      "category": "pwn",
+      "solves": 29
+    },
+    {
+      "files": [
+        {
+          "url": "https://storage.amateurs.team/uploads/d3d8e1a42252c2d822cb894b74730ae85f5c69f4867a116c4ab5cb15863e5adf/main.py",
+          "name": "main.py"
+        }
+      ],
+      "description": "Good luck getting anything to run.\n\n`nc chal.amt.rs 2103`",
+      "author": "flocto",
+      "points": 314,
+      "id": "bcds-jail-javajail1",
+      "name": "javajail1",
+      "category": "jail",
+      "solves": 84
+    },
+    {
+      "files": [
+        {
+          "url": "https://storage.amateurs.team/uploads/44d7d27fbee445d629479d5f8b5a29c71221787d53b689df2a324517326a6e70/dist.tar.xz",
+          "name": "dist.tar.xz"
+        }
+      ],
+      "description": "Just another restricted qemu-user sandbox.\n\n`nc chal.amt.rs 1339`",
+      "author": "unvariant",
+      "points": 505,
+      "id": "bcds-pwn-crackbox",
+      "name": "crackbox",
+      "category": "pwn",
+      "solves": 0
+    },
+    {
+      "files": [
+        {
+          "url": "https://storage.amateurs.team/uploads/2006dfbab28bc4c87108c6dc3a9bfe9981864bf4826fa69fbb3da622597bc0a4/dist.tar.xz",
+          "name": "dist.tar.xz"
+        }
+      ],
+      "description": "Do you know what ret2dlresolve is?\n\n`nc chal.amt.rs 1344`",
+      "author": "unvariant",
+      "points": 472,
+      "id": "bcds-pwn-reflection",
+      "name": "reflection",
+      "category": "pwn",
+      "solves": 7
+    },
+    {
+      "files": [
+        {
+          "url": "https://storage.amateurs.team/uploads/dba49d0f9a5a81829d4cc7dde82d45d0b9f78e3872682d96a4679a8e0b2b940c/cplusplus",
+          "name": "cplusplus"
+        },
+        {
+          "url": "https://storage.amateurs.team/uploads/e3c3efe1de163262f9325bc8474e3e074dd1ed13c1c87ba694e423a8a274e7f4/output.txt",
+          "name": "output.txt"
+        }
+      ],
+      "description": "idk why everyone keeps telling me to use c++? c is just as good.",
+      "author": "flocto",
+      "points": 376,
+      "id": "bcds-rev-cplusplus",
+      "name": "cplusplus",
+      "category": "rev",
+      "solves": 42
+    },
+    {
+      "files": [
+        {
+          "url": "https://storage.amateurs.team/uploads/531377978acfafcd17b63f3f096adde3cbbe5457f2a2b70bcbc845acc409c59e/main.py",
+          "name": "main.py"
+        }
+      ],
+      "description": "Crisp green Larry lies\nBathes, brining in vinegar\nDill pickle delight",
+      "author": "flocto",
+      "points": 414,
+      "id": "bcds-rev-dillwithit",
+      "name": "dill-with-it",
+      "category": "rev",
+      "solves": 25
+    },
+    {
+      "files": [
+        {
+          "url": "https://storage.amateurs.team/uploads/b05d748acfacc9e4748edcaf28c92b581bee622e72cd4bd94638c8f359025658/dist.tar.xz",
+          "name": "dist.tar.xz"
+        }
+      ],
+      "description": "Can you run an executable without any code in it?\n\n`nc chal.amt.rs 1366`\n",
+      "author": "unvariant",
+      "points": 472,
+      "id": "bcds-pwn-baby-elfcrafting",
+      "name": "baby-elfcrafting",
+      "category": "pwn",
+      "solves": 7
+    },
+    {
+      "files": [
+        {
+          "url": "https://storage.amateurs.team/uploads/c0af1a72b3ab4df773e73ac19dc3a9469e15a5b466a927169fc501c1c5644475/patch.exe",
+          "name": "patch.exe"
+        }
+      ],
+      "description": "i've been trying to apply this delta, but larry messed with my hash :(. can someone help me with this?",
+      "author": "flocto",
+      "points": 500,
+      "id": "bcds-rev-flagpatch",
+      "name": "flagpatch",
+      "category": "rev",
+      "solves": 1
+    },
+    {
+      "files": [
+        {
+          "url": "https://storage.amateurs.team/uploads/8fa12fc1c3df20ea878c1d695cab58b46ea499df80631afba82a5d92ecfdfbcf/Elixir.Program.beam",
+          "name": "Elixir.Program.beam"
+        },
+        {
+          "url": "https://storage.amateurs.team/uploads/e8821b77faa6a354049730d7dca5205dbe6770a838240a0d97751fa87eb656a9/enc.txt",
+          "name": "enc.txt"
+        },
+        {
+          "url": "https://storage.amateurs.team/uploads/b4522061fd6ac166c2d96555a72c712ca65809119abcd3063201277751c29bdb/code.%F0%9F%95%B3%EF%B8%8F",
+          "name": "code.🕳️"
+        }
+      ],
+      "description": "🕳️",
+      "author": "flocto",
+      "points": 481,
+      "id": "bcds-rev-hole",
+      "name": "hole",
+      "category": "rev",
+      "solves": 5
+    },
+    {
+      "files": [
+        {
+          "url": "https://storage.amateurs.team/uploads/e314384245a3e60b9020c68121b2c42b0afbc43abdaab79be3ed0b352e9863e0/493B0E69-C226-4171-B565-2E68ECF25A29.jpg",
+          "name": "493B0E69-C226-4171-B565-2E68ECF25A29.jpg"
+        },
+        {
+          "url": "https://storage.amateurs.team/uploads/db0b43d6ec269773dba1c91503d73261daf0853517269bfb95b56529d7b92e79/67BC754A-C818-4358-8E4F-16DF8B2230E8.jpg",
+          "name": "67BC754A-C818-4358-8E4F-16DF8B2230E8.jpg"
+        }
+      ],
+      "description": "I was on an in-state skiing trip with my family when we decided to go out and see some sights. I remember needing to go to the bathroom near where these pictures were taken and then leaving a review. Can you find this review for me?\n",
+      "author": "hellopir2",
+      "points": 157,
+      "id": "bcds-osint-bathroom-break",
+      "name": "bathroom-break",
+      "category": "osint",
+      "solves": 357
+    },
+    {
+      "files": [
+        {
+          "url": "https://storage.amateurs.team/uploads/dcee7c9effbc3f7395baac8a448c3fd6793b0acac7d3447562f2b5679cb89b8f/drunk-lcg.py",
+          "name": "drunk-lcg.py"
+        }
+      ],
+      "description": "I hate it when my LCGs are drunk. I like drunk SBGs better.\n\n`nc chal.amt.rs 1416`\n",
+      "author": "hellopir2",
+      "points": 485,
+      "id": "bcds-crypto-drunk-lcg",
+      "name": "drunk-lcg",
+      "category": "crypto",
+      "solves": 4
+    },
+    {
+      "files": [
+        {
+          "url": "https://storage.amateurs.team/uploads/a829a2d7ee9de26f58385505ea594eabbd678b93639d28101851a6c62ae86acc/pilfer-techies.py",
+          "name": "pilfer-techies.py"
+        }
+      ],
+      "description": "Uh, I modified the fake onion and now it's hoarding flags with an unreversable cipher?? Please pilfer them for me.\n\n`nc chal.amt.rs 1415`\n",
+      "author": "hellopir2",
+      "points": 460,
+      "id": "bcds-crypto-pilfer-techies",
+      "name": "pilfer-techies",
+      "category": "crypto",
+      "solves": 10
+    },
+    {
+      "files": [
+        {
+          "url": "https://storage.amateurs.team/uploads/5cf56de00ad7acde8e6f545c6ced94d3bf66db7e71dc39d453e69a8ebaf84d8a/challenge.png",
+          "name": "challenge.png"
+        },
+        {
+          "url": "https://storage.amateurs.team/uploads/8b24d3a81fe597e040ba593f391b79b13031c2008e86a9e90631f852d4bf9ce1/main.py",
+          "name": "main.py"
+        }
+      ],
+      "description": "average southern californian reacts to DC weather. amazing scenery though at the time.\n\nFind the coords of this image! \n\nGrader Command: `nc chal.amt.rs 1771`\n",
+      "author": "smashmaster",
+      "points": 200,
+      "id": "bcds-osint-cherry-blossoms",
+      "name": "cherry-blossoms",
+      "category": "osint",
+      "solves": 245
+    },
+    {
+      "files": [
+        {
+          "url": "https://storage.amateurs.team/uploads/2454a6223da4d1acbe89751fe8ce09df6b2b46d5b68b0d292f77f0a285eb0640/app.py",
+          "name": "app.py"
+        },
+        {
+          "url": "https://storage.amateurs.team/uploads/961658f06b5b62ea4dd774555e3602b6f4f4743bb0e79dd3a4b8f5d33c338316/Dockerfile",
+          "name": "Dockerfile"
+        }
+      ],
+      "description": "my friend keeps asking me to play OneShot. i haven't, but i made this cool challenge! \n[http://one-shot.amt.rs](http://one-shot.amt.rs)\n",
+      "author": "voxal",
+      "points": 186,
+      "id": "bcds-web-one-shot",
+      "name": "one-shot",
+      "category": "web",
+      "solves": 276
+    },
+    {
+      "files": [
+        {
+          "url": "https://storage.amateurs.team/uploads/294ca94f93423ecb04b81c5ced26d2b4980d47ac8648c5bf68ddc1d10b0491b2/decryption-as-a-service.py",
+          "name": "decryption-as-a-service.py"
+        }
+      ],
+      "description": "Hi, please do not decrypt the flag. Or anything else, for that matter...\n\n`nc chal.amt.rs 1417`\n",
+      "author": "hellopir2",
+      "points": 388,
+      "id": "bcds-crypto-decryption-as-a-service",
+      "name": "decryption-as-a-service",
+      "category": "crypto",
+      "solves": 36
+    },
+    {
+      "files": [
+        {
+          "url": "https://storage.amateurs.team/uploads/8b2ef7d86101cf5a71f0a31c4f5dfa47b158b15e93a892f614616b801c607805/revtale-2.zip",
+          "name": "revtale-2.zip"
+        }
+      ],
+      "description": "However... I have a&  difficult request to ask&  of you.\n\n...\n\nI would like you to walk&  to the end of the room by yourself.\n\nForgive me for this.\n\n\n\n- Toriel\n",
+      "author": "smashmaster",
+      "points": 495,
+      "id": "bcds-rev-revtale-2",
+      "name": "revtale-2",
+      "category": "rev",
+      "solves": 2
+    },
+    {
+      "files": [
+        {
+          "url": "https://storage.amateurs.team/uploads/ba58919ce4bd8337a5d462f8a3d8a0cfcba674d8fe66035ba3171af3bb28ac75/guessctf.zip",
+          "name": "guessctf.zip"
+        }
+      ],
+      "description": "  o7.\n\n\n\n  If you need help, check out the source to last year's guessctf [here](https://github.com/les-amateurs/AmateursCTF-Public/tree/main/2023/misc/guessctf)\n",
+      "author": "helloperson",
+      "points": 2000000000000,
+      "id": "bcds-guessctf-guessctf",
+      "name": "guessctf",
+      "category": "guessctf",
+      "solves": 0
+    },
+    {
+      "files": [
+        {
+          "url": "https://storage.amateurs.team/uploads/617892577eb5c01c212407a534ffbbf0eba65fa3497e501ec3eb77894f751b7f/IMG_7276.jpg",
+          "name": "IMG_7276.jpg"
+        }
+      ],
+      "description": "hopefully redacted enough, im kind of bad at this whole iphone photography thing so it took a few attempts to make this intentionally cringe msfrog in front of the flag, hopefully no one can guess the flag using this info\n",
+      "author": "smashmaster",
+      "points": 356,
+      "id": "bcds-osint-wumpus-leaks",
+      "name": "wumpus-leaks",
+      "category": "osint",
+      "solves": 53
+    },
+    {
+      "files": [
+        {
+          "url": "https://storage.amateurs.team/uploads/27fd9c75b27600468c9de5d43e2bf97f93e1c8dfbf0cdfcac9e6367d28330f97/Cargo.lock",
+          "name": "Cargo.lock"
+        },
+        {
+          "url": "https://storage.amateurs.team/uploads/5ba74fd18b467646d509a105f19761f05b6c0fd879ca91bbeae58c86db69b72e/Cargo.toml",
+          "name": "Cargo.toml"
+        },
+        {
+          "url": "https://storage.amateurs.team/uploads/6d8679e1f52fd1972330322019b4364719ea54e2ac544e1fca61bceee5835c15/main.rs",
+          "name": "main.rs"
+        },
+        {
+          "url": "https://storage.amateurs.team/uploads/2fb49214537c8a8ec071552475abf90c68565b7587c6ff096c1c560b61bb5616/lib.rs",
+          "name": "lib.rs"
+        },
+        {
+          "url": "https://storage.amateurs.team/uploads/379661c20afd1e07258815996a49d5736c335ce94fd15e526cabca498ef68f6b/gen.rs",
+          "name": "gen.rs"
+        },
+        {
+          "url": "https://storage.amateurs.team/uploads/a0e9874d93af719255e51ea114bc3b0f880c900fcedab29e16046d9107dfff4d/Dockerfile",
+          "name": "Dockerfile"
+        }
+      ],
+      "description": "Another problem :sob: Can you help?\n\n`nc chal.amt.rs 1411`\n\nDon't forget to orz the omniscient larry!\n\nYou are supposed to optimize the provided solution given in `lib.rs` to complete the problem in the given memory and time constraints.\n",
+      "author": "skittles1412",
+      "points": 449,
+      "id": "bcds-algo-omniscient-larry",
+      "name": "omniscient-larry",
+      "category": "algo",
+      "solves": 13
+    },
+    {
+      "files": [
+        {
+          "url": "https://storage.amateurs.team/uploads/2157b62d8a52761246c5a557f7b53a09550d62be0723e6a20d4cc84ae74a33f9/output.txt",
+          "name": "output.txt"
+        },
+        {
+          "url": "https://storage.amateurs.team/uploads/b56f11345f6468d6e0fcf3abf1c0c97f3aecc2a303861a63b52ec2aaaef7508f/less-suspicious-rsa.py",
+          "name": "less-suspicious-rsa.py"
+        }
+      ],
+      "description": "I need help factoring this modulus, it looks less suspicious, but I can't factor using any conventional methods.\n",
+      "author": "hellopir2",
+      "points": 372,
+      "id": "bcds-crypto-less-suspicious-rsa",
+      "name": "less-suspicious-rsa",
+      "category": "crypto",
+      "solves": 44
+    },
+    {
+      "files": [
+        {
+          "url": "https://storage.amateurs.team/uploads/d6b42101c36aba672a4833f1c81c7944ee181f37832091cc883a037f82bc3c03/main.py",
+          "name": "main.py"
+        }
+      ],
+      "description": "What about a quine?\n\n`nc chal.amt.rs 1818`\n",
+      "author": "hellopir2",
+      "points": 430,
+      "id": "bcds-jail-pyquinejailgolf",
+      "name": "pyquinejailgolf",
+      "category": "jail",
+      "solves": 19
+    },
+    {
+      "files": [
+        {
+          "url": "https://storage.amateurs.team/uploads/847cbbe7e206a2533465d5801936b26c925cf54c6e4dc75cde4ed885aa0b6bfb/Cargo.lock",
+          "name": "Cargo.lock"
+        },
+        {
+          "url": "https://storage.amateurs.team/uploads/eb016df0c8c6eae5fd43dca65989c85cbd56f570f0aaace8b99d6d4108f5ae23/Cargo.toml",
+          "name": "Cargo.toml"
+        },
+        {
+          "url": "https://storage.amateurs.team/uploads/616d070e850ae27570ceab7514cf595cf5a16e6f8071c6521fab4e149e34c2cd/main.rs",
+          "name": "main.rs"
+        },
+        {
+          "url": "https://storage.amateurs.team/uploads/70aa8a7a05dbaa77c4fdbcfd0cf884226c98ebecb907e2b036083085464ce761/lib.rs",
+          "name": "lib.rs"
+        },
+        {
+          "url": "https://storage.amateurs.team/uploads/8218f19264f02e0f892401f43463309bcf53cd8152a4da5364a38bb0a7d251a0/Dockerfile",
+          "name": "Dockerfile"
+        }
+      ],
+      "description": "I wrote code to try to solve the problem the omniscient god solved but it was too slow (it works tho!!). Can you help?\n\n`nc chal.amt.rs 1412`\n\nDon't forget to orz larry!\n\nYou are supposed to optimize the provided solution given in `lib.rs` to complete the problem in the given memory and time constraints.\n",
+      "author": "skittles1412",
+      "points": 397,
+      "id": "bcds-algo-orz-larry",
+      "name": "orz-larry",
+      "category": "algo",
+      "solves": 32
+    },
+    {
+      "files": [
+        {
+          "url": "https://storage.amateurs.team/uploads/9c4436073d07e10553f2d262359ccfba4c6095a909e74f51d6417dedcd68909f/Dockerfile",
+          "name": "Dockerfile"
+        },
+        {
+          "url": "https://storage.amateurs.team/uploads/165ff8b3951b0adc5051b9f9e0bcc9564104b289330ae74996439284bbd754ad/server.py",
+          "name": "server.py"
+        }
+      ],
+      "description": "Oops, I'm failing my interview, how do I get the assertions to pass.\n\n`nc chal.amt.rs 1410`\n\nDon't forget to orz larry!\n",
+      "author": "skittles1412",
+      "points": 406,
+      "id": "bcds-algo-lis",
+      "name": "lis",
+      "category": "algo",
+      "solves": 28
+    },
+    {
+      "files": [
+        {
+          "url": "https://storage.amateurs.team/uploads/f1c021f8e594df0551e5e97da15e81a0ec309fdcb2c54ca946214ea4694880e9/chal.py",
+          "name": "chal.py"
+        },
+        {
+          "url": "https://storage.amateurs.team/uploads/2d00e789fec4f71790a6e7bf83ff91d564943c5ee843c5fd966efc474b423047/zig-linux-x86_64-0.11.0.tar.xz",
+          "name": "zig-linux-x86_64-0.11.0.tar.xz"
+        },
+        {
+          "url": "https://storage.amateurs.team/uploads/10b6b08ec6e9ee06853168148a93211e3cf22f2037487375cd9a372baff4df70/Dockerfile",
+          "name": "Dockerfile"
+        }
+      ],
+      "description": "What compiler limits?\n\n`nc chal.amt.rs 1516`\n",
+      "author": "unvariant",
+      "points": 485,
+      "id": "bcds-jail-zig-jail-2",
+      "name": "zig-jail-2",
+      "category": "jail",
+      "solves": 4
+    },
+    {
+      "files": [
+        {
+          "url": "https://storage.amateurs.team/uploads/f7d7e9488301e19dd99d4a8e68de06fe8d6faa5abe0edb09322045dd78210561/main.py",
+          "name": "main.py"
+        }
+      ],
+      "description": "ACTUALLY write a quine this time, thanks!\n\n`nc chal.amt.rs 1434`\n",
+      "author": "hellopir2",
+      "points": 481,
+      "id": "bcds-jail-pyquinejailgolf2",
+      "name": "pyquinejailgolf2",
+      "category": "jail",
+      "solves": 5
+    },
+    {
+      "files": [
+        {
+          "url": "https://storage.amateurs.team/uploads/2f98283417a3fcd430237085505dd613aba5ab429644b8ef26be4aa8aeb8225b/server.py",
+          "name": "server.py"
+        }
+      ],
+      "description": "Quasar wrote an implementation of uint or something, please abuse my usage of it.\n\n`nc chal.amt.rs 1435`\n",
+      "author": "hellopir2",
+      "points": 453,
+      "id": "bcds-jail-uint",
+      "name": "uint",
+      "category": "jail",
+      "solves": 12
+    },
+    {
+      "files": [
+        {
+          "url": "https://storage.amateurs.team/uploads/8dbbba02ee33083d1bcef5e8e194b73c744d6c51640f9ed0055dd80a9be5686f/out.zip",
+          "name": "out.zip"
+        },
+        {
+          "url": "https://storage.amateurs.team/uploads/be4a70ecf6733f7d0bd0aefc288732373257bdccfedcfdf3c553e2d23d1f5022/cell-service.py",
+          "name": "cell-service.py"
+        }
+      ],
+      "description": "The signal I'm getting up here is unfathomably bad, and I think that's why my flag is taking so long to decode. Can you help?\n",
+      "author": "hellopir2",
+      "points": 472,
+      "id": "bcds-crypto-cell-service",
+      "name": "cell-service",
+      "category": "crypto",
+      "solves": 7
+    },
+    {
+      "files": [
+        {
+          "url": "https://storage.amateurs.team/uploads/3dc59a61abf87544d57a09b819569401796084204d8daf5df00ec66caee2ecf3/chal.py",
+          "name": "chal.py"
+        },
+        {
+          "url": "https://storage.amateurs.team/uploads/2d00e789fec4f71790a6e7bf83ff91d564943c5ee843c5fd966efc474b423047/zig-linux-x86_64-0.11.0.tar.xz",
+          "name": "zig-linux-x86_64-0.11.0.tar.xz"
+        },
+        {
+          "url": "https://storage.amateurs.team/uploads/c595f935792248b9ae79b664d4ce1768d5fbb49997b777cf26f7bddf4496db09/run.sh",
+          "name": "run.sh"
+        },
+        {
+          "url": "https://storage.amateurs.team/uploads/9babc8ad9fa48470ecb0e7741dcfab27df8e7a3cf025055a90de3e74e796f4c8/chroot.sh",
+          "name": "chroot.sh"
+        },
+        {
+          "url": "https://storage.amateurs.team/uploads/c773f0cdee9d94b2164334a2c26b4392702d775f4f7574bbe415583fa14b30a2/hook.sh",
+          "name": "hook.sh"
+        },
+        {
+          "url": "https://storage.amateurs.team/uploads/57959ce54209bb9684fbb79b8bc00f07fc6633dfad089b408c6e65e7f5910794/Dockerfile",
+          "name": "Dockerfile"
+        }
+      ],
+      "description": "This isn't c anymore you can't just `#include` the flag right?\n\n`nc chal.amt.rs 1515`\n",
+      "author": "unvariant",
+      "points": 490,
+      "id": "bcds-jail-zig-jail-1",
+      "name": "zig-jail-1",
+      "category": "jail",
+      "solves": 3
+    },
+    {
+      "files": [
+        {
+          "url": "https://storage.amateurs.team/uploads/3442ef9170109db8fc882f1b55200ffb9ab3f6a3da5b8adc4cbb7cead7729cd9/zf.py",
+          "name": "zf.py"
+        },
+        {
+          "url": "https://storage.amateurs.team/uploads/4f2c858c25b393ae504767c5653982fc468de549243b6016d94f63b9939fe59d/flag.tarc",
+          "name": "flag.tarc"
+        }
+      ],
+      "description": "you guys wanted forensics, i wanted to tar files.",
+      "author": "hellopir2",
+      "points": 378,
+      "id": "bcds-misc-tarcrypt",
+      "name": "tarcrypt",
+      "category": "misc",
+      "solves": 41
+    },
+    {
+      "files": [],
+      "description": "# Lahoot Async\nDue to the great tragedy called budget cuts in infra, we've downsized lahoot and have had to reduce upon the realtime interactions*. Because of this you can expect the new version to include twice the cringe, and half the bandwidth usage (bandwidth usage may vary) because we have removed any use of websockets or socket.io. we also lost our budget for the database and images on the quiz but at the cost of possibly better infra this year.\n\nBut ignoring that, let us enjoy the release of the next cringe \"live\" quiz game for AmateursCTF 2024. Unfortunately, due to uhm blatant cheating attempts we're unable to offer the source code at the moment until we can figure out how the cheaters are 100%ing nor can we offer any swag for this challenges sry =<. You can always get chips as swag technically tho =). oop last thing we forgot to mention, we couldn't afford actual questions so the robots wrote this year's questions. glhf\n\n*ahem, certain people made scripts to \"accidentally\" dos the poor kubernetes last year ruining the fun.\n\n**REMINDER: LAHOOT SOLVES DOESN'T AND NEVER WILL INVOLVE DOSING THE SERVER, WE WILL FIND YOU**\n\n[http://lahoot-async.amt.rs](http://lahoot-async.amt.rs)\n",
+      "author": "smashmaster",
+      "points": 500,
+      "id": "bcds-web-lahoot-async",
+      "name": "lahoot-async",
+      "category": "web",
+      "solves": 1
+    },
+    {
+      "files": [],
+      "description": "Please aes-decrypt the flag for me:\nkey: `8e29bd9f7a4f50e2485acd455bd6595ee1c6d029c8b3ef82eba0f28e59afcf9f`\nciphertext: `abcdd57efb034baf82fc1920a618e6a7fa496e319b4db1746b7d7e3d1198f64f`\n",
+      "author": "hellopir2",
+      "points": 168,
+      "id": "bcds-crypto-aesy",
+      "name": "aesy",
+      "category": "crypto",
+      "solves": 325
+    },
+    {
+      "files": [
+        {
+          "url": "https://storage.amateurs.team/uploads/eb0774b375527575dd8dbfc0e19b275fd1285716f7db1704c93a03caf54003ec/index.html",
+          "name": "index.html"
+        },
+        {
+          "url": "https://storage.amateurs.team/uploads/b5839e0afad53e49188dd6f91929022c0f5c6ed4425d4da0f6bc4a045e314468/admin-bot-excerpt.js",
+          "name": "admin-bot-excerpt.js"
+        }
+      ],
+      "description": "Client side rendered python turtle sculptures, why don't we play around with them.\n\nRemote (for use in admin bot): [https://amateurs-ctf-2024-sculpture-challenge.pages.dev](https://amateurs-ctf-2024-sculpture-challenge.pages.dev)\n[Admin Bot](http://admin-bot.amt.rs/sculpture)  \n\n",
+      "author": "smashmaster",
+      "points": 312,
+      "id": "bcds-web-sculpture",
+      "name": "sculpture",
+      "category": "web",
+      "solves": 86
+    }
+  ]
+}
