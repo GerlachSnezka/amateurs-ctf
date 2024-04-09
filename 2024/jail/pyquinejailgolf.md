@@ -1,9 +1,6 @@
 ---
 title: "pyquinejailgolf"
-description: "What about a quine?
-
-`nc chal.amt.rs 1818`
-"
+description: "What about a quine?"
 points: 430
 solves: 19
 author: nobody

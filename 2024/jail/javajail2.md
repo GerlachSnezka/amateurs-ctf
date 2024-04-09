@@ -1,8 +1,6 @@
 ---
 title: "javajail2"
-description: "okay sorry here's a real jail.
-
-`nc chal.amt.rs 2104`"
+description: "okay sorry here's a real jail."
 points: 361
 solves: 50
 author: nobody

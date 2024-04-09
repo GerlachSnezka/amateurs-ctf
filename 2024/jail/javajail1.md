@@ -1,8 +1,6 @@
 ---
 title: "javajail1"
-description: "Good luck getting anything to run.
-
-`nc chal.amt.rs 2103`"
+description: "Good luck getting anything to run."
 points: 314
 solves: 84
 author: nobody

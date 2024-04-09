@@ -1,10 +1,6 @@
 ---
 title: "sansomega"
-description: "Somehow I think the pico one had too many unintendeds...
-
-So I left some more in :)
-
-`nc chal.amt.rs 2100`"
+description: "Somehow I think the pico one had too many unintendeds..."
 points: 209
 solves: 227
 author: nobody

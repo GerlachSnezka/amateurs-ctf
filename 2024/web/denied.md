@@ -1,8 +1,6 @@
 ---
 title: "denied"
-description: "  what options do i have?  
-  [http://denied.amt.rs](http://denied.amt.rs)
-"
+description: "what options do i have?"
 points: 54
 solves: 849
 author: nobody
