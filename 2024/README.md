@@ -2,43 +2,43 @@
 
 ## Misc Challenges
 
-- **survey** (1 points) - Solved: ✔ - Solves: 174
+- **survey** (1 points) - Solved: ✔ - Solves: 204
 
-- **bears-flagcord** (472 points) - Solved: ✔ - Solves: 7
+- **bears-flagcord** (456 points) - Solved: ✔ - Solves: 11
 
-- **sanity-check** (57 points) - Solved: ✔ - Solves: 823
+- **sanity-check** (56 points) - Solved: ✔ - Solves: 830
 
 ## Web Challenges
 
-- **denied** (54 points) - Solved: ✔ - Solves: 849
+- **denied** (53 points) - Solved: ✔ - Solves: 856
 
-- **agile-rut** (175 points) - Solved: ✔ - Solves: 305
+- **agile-rut** (173 points) - Solved: ✔ - Solves: 311
 
-- **one-shot** (186 points) - Solved: ✔ - Solves: 276
+- **one-shot** (184 points) - Solved: ✔ - Solves: 282
 
-- **sculpture** (312 points) - Solved: ✔ - Solves: 86
+- **sculpture** (302 points) - Solved: ✔ - Solves: 95
 
 ## Jail Challenges
 
-- **javajail2** (361 points) - Solved: ✔ - Solves: 50
+- **javajail2** (355 points) - Solved: ✔ - Solves: 54
 
-- **sansomega** (209 points) - Solved: ✔ - Solves: 227
+- **sansomega** (207 points) - Solved: ✔ - Solves: 230
 
-- **javajail1** (314 points) - Solved: ✔ - Solves: 84
+- **javajail1** (309 points) - Solved: ✔ - Solves: 88
 
-- **pyquinejailgolf** (430 points) - Solved: ✔ - Solves: 19
+- **pyquinejailgolf** (419 points) - Solved: ✔ - Solves: 23
 
 ## Osint Challenges
 
-- **bathroom-break** (157 points) - Solved: ✔ - Solves: 357
+- **bathroom-break** (154 points) - Solved: ✔ - Solves: 365
 
-- **cherry-blossoms** (200 points) - Solved: ✔ - Solves: 245
+- **cherry-blossoms** (195 points) - Solved: ✔ - Solves: 255
 
 ## Algo Challenges
 
-- **orz-larry** (397 points) - Solved: ✔ - Solves: 32
+- **orz-larry** (392 points) - Solved: ✔ - Solves: 34
 
 ## Crypto Challenges
 
-- **aesy** (168 points) - Solved: ✔ - Solves: 325
+- **aesy** (163 points) - Solved: ✔ - Solves: 338
 

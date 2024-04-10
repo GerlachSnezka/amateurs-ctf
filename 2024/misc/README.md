@@ -2,6 +2,6 @@
 
 List of challenges in this category:
 
-- survey - Solves: 174
-- bears-flagcord - Solves: 7
-- sanity-check - Solves: 823
+- survey - Solves: 204
+- bears-flagcord - Solves: 11
+- sanity-check - Solves: 830

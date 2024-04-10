@@ -2,4 +2,4 @@
 
 List of challenges in this category:
 
-- aesy - Solves: 325
+- aesy - Solves: 338

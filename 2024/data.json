@@ -10,7 +10,7 @@
       "id": "10a4c3fd-f952-4a59-bbb2-0be2e8d9654c",
       "name": "survey",
       "category": "misc",
-      "solves": 174
+      "solves": 204
     },
     {
       "files": [
@@ -31,11 +31,11 @@
       "files": [],
       "description": "We're building the next generation flag sharing social media inside discord! Join us for the fun flag sharing activity, well uhm actually I might need to finish testing my code. Use code \"flag\" to get instant access to the flag! `https://discord.com/oauth2/authorize?client_id=1223421353907064913&permissions=0&scope=bot`\n",
       "author": "smashmaster",
-      "points": 472,
+      "points": 456,
       "id": "bcds-misc-bears-flagcord",
       "name": "bears-flagcord",
       "category": "misc",
-      "solves": 7
+      "solves": 11
     },
     {
       "files": [
@@ -50,11 +50,11 @@
       ],
       "description": "can you make sure i didn't make a typo?",
       "author": "flocto",
-      "points": 245,
+      "points": 243,
       "id": "bcds-rev-typo",
       "name": "typo",
       "category": "rev",
-      "solves": 163
+      "solves": 166
     },
     {
       "files": [
@@ -65,11 +65,11 @@
       ],
       "description": "bearsay(1)\n\nbearsay - configurable speaking/thinking bear (and a bit more)\n\n`nc chal.amt.rs 1338`",
       "author": "unvariant",
-      "points": 271,
+      "points": 266,
       "id": "bcds-pwn-bearsay",
       "name": "bearsay",
       "category": "pwn",
-      "solves": 128
+      "solves": 134
     },
     {
       "files": [
@@ -99,11 +99,11 @@
       ],
       "description": "Once upon a time...there was a binary with a flag.",
       "author": "smashmaster",
-      "points": 411,
+      "points": 408,
       "id": "bcds-rev-revtale-1",
       "name": "revtale-1",
       "category": "rev",
-      "solves": 26
+      "solves": 27
     },
     {
       "files": [
@@ -129,11 +129,11 @@
       ],
       "description": "You can make anything sound like laughing if you try hard enough with an imagination. mus_smile",
       "author": "smashmaster",
-      "points": 262,
+      "points": 256,
       "id": "bcds-misc-densely-packed",
       "name": "densely-packed",
       "category": "misc",
-      "solves": 140
+      "solves": 147
     },
     {
       "files": [
@@ -178,11 +178,11 @@
       ],
       "description": "How many different ways are there to make a syscall?\n\n`nc chal.amt.rs 1341`",
       "author": "unvariant",
-      "points": 397,
+      "points": 392,
       "id": "bcds-pwn-baby-sandbox",
       "name": "baby-sandbox",
       "category": "pwn",
-      "solves": 32
+      "solves": 34
     },
     {
       "files": [
@@ -193,11 +193,11 @@
       ],
       "description": "Are you as fake as this onion?\n\n`nc chal.amt.rs 1414`\n",
       "author": "flocto",
-      "points": 285,
+      "points": 284,
       "id": "bcds-crypto-faked-onion",
       "name": "faked-onion",
       "category": "crypto",
-      "solves": 112
+      "solves": 113
     },
     {
       "files": [
@@ -208,11 +208,11 @@
       ],
       "description": "  i ran out of ideas so here is a login page challenge  \n  [http://creative-login-page.amt.rs](http://creative-login-page.amt.rs)\n",
       "author": "voxal",
-      "points": 433,
+      "points": 427,
       "id": "bcds-web-creative-login-page-challenge",
       "name": "creative-login-page-challenge",
       "category": "web",
-      "solves": 18
+      "solves": 20
     },
     {
       "files": [
@@ -223,11 +223,11 @@
       ],
       "description": "  what options do i have?  \n  [http://denied.amt.rs](http://denied.amt.rs)\n",
       "author": "voxal",
-      "points": 54,
+      "points": 53,
       "id": "bcds-web-denied",
       "name": "denied",
       "category": "web",
-      "solves": 849
+      "solves": 856
     },
     {
       "files": [
@@ -248,11 +248,11 @@
       "files": [],
       "description": "wow sanity check go join the discord.",
       "author": "flocto",
-      "points": 57,
+      "points": 56,
       "id": "bcds-misc-sanity-check",
       "name": "sanity-check",
       "category": "misc",
-      "solves": 823
+      "solves": 830
     },
     {
       "files": [
@@ -267,11 +267,11 @@
       ],
       "description": "I need help factoring this modulus, it looks suspicious, but I can't factor using any conventional methods.\n",
       "author": "hellopir2",
-      "points": 249,
+      "points": 247,
       "id": "bcds-crypto-unsuspicious-rsa",
       "name": "unsuspicious-rsa",
       "category": "crypto",
-      "solves": 157
+      "solves": 160
     },
     {
       "files": [
@@ -282,11 +282,11 @@
       ],
       "description": "We decided to make our own custom super secure database with absolutely no bugs!\n\n`nc chal.amt.rs 1346`",
       "author": "unvariant",
-      "points": 358,
+      "points": 352,
       "id": "bcds-pwn-heaps-of-fun",
       "name": "heaps-of-fun",
       "category": "pwn",
-      "solves": 52
+      "solves": 56
     },
     {
       "files": [
@@ -346,21 +346,21 @@
       ],
       "description": "\"wow its my favorite language to rev\" - nobody\n\n`nc chal.amt.rs 2200`\n",
       "author": "flocto",
-      "points": 439,
+      "points": 436,
       "id": "bcds-rev-gogogaga",
       "name": "gogogaga",
       "category": "rev",
-      "solves": 16
+      "solves": 17
     },
     {
       "files": [],
       "description": "  check out this cool font i made!  \n  [http://agile-rut.amt.rs](http://agile-rut.amt.rs)  \n  hint: if you get something that looks like the flag try pasting it into the box.\n",
       "author": "voxal",
-      "points": 175,
+      "points": 173,
       "id": "bcds-web-agile-rut",
       "name": "agile-rut",
       "category": "web",
-      "solves": 305
+      "solves": 311
     },
     {
       "files": [
@@ -371,11 +371,11 @@
       ],
       "description": "okay sorry here's a real jail.\n\n`nc chal.amt.rs 2104`",
       "author": "flocto",
-      "points": 361,
+      "points": 355,
       "id": "bcds-jail-javajail2",
       "name": "javajail2",
       "category": "jail",
-      "solves": 50
+      "solves": 54
     },
     {
       "files": [
@@ -390,11 +390,11 @@
       ],
       "description": "Somehow I think the pico one had too many unintendeds...\n\nSo I left some more in :)\n\n`nc chal.amt.rs 2100`",
       "author": "flocto",
-      "points": 209,
+      "points": 207,
       "id": "bcds-jail-sansomega",
       "name": "sansomega",
       "category": "jail",
-      "solves": 227
+      "solves": 230
     },
     {
       "files": [
@@ -405,11 +405,11 @@
       ],
       "description": "I just want to uppercase a string... why does unicode make this so hard.\n\n`nc chal.amt.rs 1337`",
       "author": "unvariant",
-      "points": 404,
+      "points": 401,
       "id": "bcds-pwn-buffer-overflow",
       "name": "buffer-overflow",
       "category": "pwn",
-      "solves": 29
+      "solves": 30
     },
     {
       "files": [
@@ -420,11 +420,60 @@
       ],
       "description": "Good luck getting anything to run.\n\n`nc chal.amt.rs 2103`",
       "author": "flocto",
-      "points": 314,
+      "points": 309,
       "id": "bcds-jail-javajail1",
       "name": "javajail1",
       "category": "jail",
-      "solves": 84
+      "solves": 88
+    },
+    {
+      "files": [
+        {
+          "url": "https://storage.amateurs.team/uploads/2006dfbab28bc4c87108c6dc3a9bfe9981864bf4826fa69fbb3da622597bc0a4/dist.tar.xz",
+          "name": "dist.tar.xz"
+        }
+      ],
+      "description": "Do you know what ret2dlresolve is?\n\n`nc chal.amt.rs 1344`",
+      "author": "unvariant",
+      "points": 456,
+      "id": "bcds-pwn-reflection",
+      "name": "reflection",
+      "category": "pwn",
+      "solves": 11
+    },
+    {
+      "files": [
+        {
+          "url": "https://storage.amateurs.team/uploads/dba49d0f9a5a81829d4cc7dde82d45d0b9f78e3872682d96a4679a8e0b2b940c/cplusplus",
+          "name": "cplusplus"
+        },
+        {
+          "url": "https://storage.amateurs.team/uploads/e3c3efe1de163262f9325bc8474e3e074dd1ed13c1c87ba694e423a8a274e7f4/output.txt",
+          "name": "output.txt"
+        }
+      ],
+      "description": "idk why everyone keeps telling me to use c++? c is just as good.",
+      "author": "flocto",
+      "points": 374,
+      "id": "bcds-rev-cplusplus",
+      "name": "cplusplus",
+      "category": "rev",
+      "solves": 43
+    },
+    {
+      "files": [
+        {
+          "url": "https://storage.amateurs.team/uploads/531377978acfafcd17b63f3f096adde3cbbe5457f2a2b70bcbc845acc409c59e/main.py",
+          "name": "main.py"
+        }
+      ],
+      "description": "Crisp green Larry lies\nBathes, brining in vinegar\nDill pickle delight",
+      "author": "flocto",
+      "points": 406,
+      "id": "bcds-rev-dillwithit",
+      "name": "dill-with-it",
+      "category": "rev",
+      "solves": 28
     },
     {
       "files": [
@@ -440,55 +489,6 @@
       "name": "crackbox",
       "category": "pwn",
       "solves": 0
-    },
-    {
-      "files": [
-        {
-          "url": "https://storage.amateurs.team/uploads/2006dfbab28bc4c87108c6dc3a9bfe9981864bf4826fa69fbb3da622597bc0a4/dist.tar.xz",
-          "name": "dist.tar.xz"
-        }
-      ],
-      "description": "Do you know what ret2dlresolve is?\n\n`nc chal.amt.rs 1344`",
-      "author": "unvariant",
-      "points": 472,
-      "id": "bcds-pwn-reflection",
-      "name": "reflection",
-      "category": "pwn",
-      "solves": 7
-    },
-    {
-      "files": [
-        {
-          "url": "https://storage.amateurs.team/uploads/dba49d0f9a5a81829d4cc7dde82d45d0b9f78e3872682d96a4679a8e0b2b940c/cplusplus",
-          "name": "cplusplus"
-        },
-        {
-          "url": "https://storage.amateurs.team/uploads/e3c3efe1de163262f9325bc8474e3e074dd1ed13c1c87ba694e423a8a274e7f4/output.txt",
-          "name": "output.txt"
-        }
-      ],
-      "description": "idk why everyone keeps telling me to use c++? c is just as good.",
-      "author": "flocto",
-      "points": 376,
-      "id": "bcds-rev-cplusplus",
-      "name": "cplusplus",
-      "category": "rev",
-      "solves": 42
-    },
-    {
-      "files": [
-        {
-          "url": "https://storage.amateurs.team/uploads/531377978acfafcd17b63f3f096adde3cbbe5457f2a2b70bcbc845acc409c59e/main.py",
-          "name": "main.py"
-        }
-      ],
-      "description": "Crisp green Larry lies\nBathes, brining in vinegar\nDill pickle delight",
-      "author": "flocto",
-      "points": 414,
-      "id": "bcds-rev-dillwithit",
-      "name": "dill-with-it",
-      "category": "rev",
-      "solves": 25
     },
     {
       "files": [
@@ -514,11 +514,11 @@
       ],
       "description": "i've been trying to apply this delta, but larry messed with my hash :(. can someone help me with this?",
       "author": "flocto",
-      "points": 500,
+      "points": 485,
       "id": "bcds-rev-flagpatch",
       "name": "flagpatch",
       "category": "rev",
-      "solves": 1
+      "solves": 4
     },
     {
       "files": [
@@ -537,11 +537,11 @@
       ],
       "description": "🕳️",
       "author": "flocto",
-      "points": 481,
+      "points": 472,
       "id": "bcds-rev-hole",
       "name": "hole",
       "category": "rev",
-      "solves": 5
+      "solves": 7
     },
     {
       "files": [
@@ -556,11 +556,11 @@
       ],
       "description": "I was on an in-state skiing trip with my family when we decided to go out and see some sights. I remember needing to go to the bathroom near where these pictures were taken and then leaving a review. Can you find this review for me?\n",
       "author": "hellopir2",
-      "points": 157,
+      "points": 154,
       "id": "bcds-osint-bathroom-break",
       "name": "bathroom-break",
       "category": "osint",
-      "solves": 357
+      "solves": 365
     },
     {
       "files": [
@@ -586,11 +586,11 @@
       ],
       "description": "Uh, I modified the fake onion and now it's hoarding flags with an unreversable cipher?? Please pilfer them for me.\n\n`nc chal.amt.rs 1415`\n",
       "author": "hellopir2",
-      "points": 460,
+      "points": 449,
       "id": "bcds-crypto-pilfer-techies",
       "name": "pilfer-techies",
       "category": "crypto",
-      "solves": 10
+      "solves": 13
     },
     {
       "files": [
@@ -605,11 +605,11 @@
       ],
       "description": "average southern californian reacts to DC weather. amazing scenery though at the time.\n\nFind the coords of this image! \n\nGrader Command: `nc chal.amt.rs 1771`\n",
       "author": "smashmaster",
-      "points": 200,
+      "points": 195,
       "id": "bcds-osint-cherry-blossoms",
       "name": "cherry-blossoms",
       "category": "osint",
-      "solves": 245
+      "solves": 255
     },
     {
       "files": [
@@ -624,11 +624,11 @@
       ],
       "description": "my friend keeps asking me to play OneShot. i haven't, but i made this cool challenge! \n[http://one-shot.amt.rs](http://one-shot.amt.rs)\n",
       "author": "voxal",
-      "points": 186,
+      "points": 184,
       "id": "bcds-web-one-shot",
       "name": "one-shot",
       "category": "web",
-      "solves": 276
+      "solves": 282
     },
     {
       "files": [
@@ -639,11 +639,11 @@
       ],
       "description": "Hi, please do not decrypt the flag. Or anything else, for that matter...\n\n`nc chal.amt.rs 1417`\n",
       "author": "hellopir2",
-      "points": 388,
+      "points": 384,
       "id": "bcds-crypto-decryption-as-a-service",
       "name": "decryption-as-a-service",
       "category": "crypto",
-      "solves": 36
+      "solves": 38
     },
     {
       "files": [
@@ -654,26 +654,11 @@
       ],
       "description": "However... I have a&  difficult request to ask&  of you.\n\n...\n\nI would like you to walk&  to the end of the room by yourself.\n\nForgive me for this.\n\n\n\n- Toriel\n",
       "author": "smashmaster",
-      "points": 495,
+      "points": 490,
       "id": "bcds-rev-revtale-2",
       "name": "revtale-2",
       "category": "rev",
-      "solves": 2
-    },
-    {
-      "files": [
-        {
-          "url": "https://storage.amateurs.team/uploads/ba58919ce4bd8337a5d462f8a3d8a0cfcba674d8fe66035ba3171af3bb28ac75/guessctf.zip",
-          "name": "guessctf.zip"
-        }
-      ],
-      "description": "  o7.\n\n\n\n  If you need help, check out the source to last year's guessctf [here](https://github.com/les-amateurs/AmateursCTF-Public/tree/main/2023/misc/guessctf)\n",
-      "author": "helloperson",
-      "points": 2000000000000,
-      "id": "bcds-guessctf-guessctf",
-      "name": "guessctf",
-      "category": "guessctf",
-      "solves": 0
+      "solves": 3
     },
     {
       "files": [
@@ -684,11 +669,26 @@
       ],
       "description": "hopefully redacted enough, im kind of bad at this whole iphone photography thing so it took a few attempts to make this intentionally cringe msfrog in front of the flag, hopefully no one can guess the flag using this info\n",
       "author": "smashmaster",
-      "points": 356,
+      "points": 353,
       "id": "bcds-osint-wumpus-leaks",
       "name": "wumpus-leaks",
       "category": "osint",
-      "solves": 53
+      "solves": 55
+    },
+    {
+      "files": [
+        {
+          "url": "https://storage.amateurs.team/uploads/ba58919ce4bd8337a5d462f8a3d8a0cfcba674d8fe66035ba3171af3bb28ac75/guessctf.zip",
+          "name": "guessctf.zip"
+        }
+      ],
+      "description": "  o7.\n\n\n\n  If you need help, check out the source to last year's guessctf [here](https://github.com/les-amateurs/AmateursCTF-Public/tree/main/2023/misc/guessctf)\n",
+      "author": "helloperson",
+      "points": 1,
+      "id": "bcds-guessctf-guessctf",
+      "name": "guessctf",
+      "category": "guessctf",
+      "solves": 1
     },
     {
       "files": [
@@ -738,11 +738,11 @@
       ],
       "description": "I need help factoring this modulus, it looks less suspicious, but I can't factor using any conventional methods.\n",
       "author": "hellopir2",
-      "points": 372,
+      "points": 370,
       "id": "bcds-crypto-less-suspicious-rsa",
       "name": "less-suspicious-rsa",
       "category": "crypto",
-      "solves": 44
+      "solves": 45
     },
     {
       "files": [
@@ -753,11 +753,11 @@
       ],
       "description": "What about a quine?\n\n`nc chal.amt.rs 1818`\n",
       "author": "hellopir2",
-      "points": 430,
+      "points": 419,
       "id": "bcds-jail-pyquinejailgolf",
       "name": "pyquinejailgolf",
       "category": "jail",
-      "solves": 19
+      "solves": 23
     },
     {
       "files": [
@@ -784,11 +784,11 @@
       ],
       "description": "I wrote code to try to solve the problem the omniscient god solved but it was too slow (it works tho!!). Can you help?\n\n`nc chal.amt.rs 1412`\n\nDon't forget to orz larry!\n\nYou are supposed to optimize the provided solution given in `lib.rs` to complete the problem in the given memory and time constraints.\n",
       "author": "skittles1412",
-      "points": 397,
+      "points": 392,
       "id": "bcds-algo-orz-larry",
       "name": "orz-larry",
       "category": "algo",
-      "solves": 32
+      "solves": 34
     },
     {
       "files": [
@@ -803,11 +803,11 @@
       ],
       "description": "Oops, I'm failing my interview, how do I get the assertions to pass.\n\n`nc chal.amt.rs 1410`\n\nDon't forget to orz larry!\n",
       "author": "skittles1412",
-      "points": 406,
+      "points": 397,
       "id": "bcds-algo-lis",
       "name": "lis",
       "category": "algo",
-      "solves": 28
+      "solves": 32
     },
     {
       "files": [
@@ -826,11 +826,11 @@
       ],
       "description": "What compiler limits?\n\n`nc chal.amt.rs 1516`\n",
       "author": "unvariant",
-      "points": 485,
+      "points": 481,
       "id": "bcds-jail-zig-jail-2",
       "name": "zig-jail-2",
       "category": "jail",
-      "solves": 4
+      "solves": 5
     },
     {
       "files": [
@@ -910,11 +910,11 @@
       ],
       "description": "This isn't c anymore you can't just `#include` the flag right?\n\n`nc chal.amt.rs 1515`\n",
       "author": "unvariant",
-      "points": 490,
+      "points": 485,
       "id": "bcds-jail-zig-jail-1",
       "name": "zig-jail-1",
       "category": "jail",
-      "solves": 3
+      "solves": 4
     },
     {
       "files": [
@@ -929,31 +929,31 @@
       ],
       "description": "you guys wanted forensics, i wanted to tar files.",
       "author": "hellopir2",
-      "points": 378,
+      "points": 368,
       "id": "bcds-misc-tarcrypt",
       "name": "tarcrypt",
       "category": "misc",
-      "solves": 41
+      "solves": 46
     },
     {
       "files": [],
       "description": "# Lahoot Async\nDue to the great tragedy called budget cuts in infra, we've downsized lahoot and have had to reduce upon the realtime interactions*. Because of this you can expect the new version to include twice the cringe, and half the bandwidth usage (bandwidth usage may vary) because we have removed any use of websockets or socket.io. we also lost our budget for the database and images on the quiz but at the cost of possibly better infra this year.\n\nBut ignoring that, let us enjoy the release of the next cringe \"live\" quiz game for AmateursCTF 2024. Unfortunately, due to uhm blatant cheating attempts we're unable to offer the source code at the moment until we can figure out how the cheaters are 100%ing nor can we offer any swag for this challenges sry =<. You can always get chips as swag technically tho =). oop last thing we forgot to mention, we couldn't afford actual questions so the robots wrote this year's questions. glhf\n\n*ahem, certain people made scripts to \"accidentally\" dos the poor kubernetes last year ruining the fun.\n\n**REMINDER: LAHOOT SOLVES DOESN'T AND NEVER WILL INVOLVE DOSING THE SERVER, WE WILL FIND YOU**\n\n[http://lahoot-async.amt.rs](http://lahoot-async.amt.rs)\n",
       "author": "smashmaster",
-      "points": 500,
+      "points": 490,
       "id": "bcds-web-lahoot-async",
       "name": "lahoot-async",
       "category": "web",
-      "solves": 1
+      "solves": 3
     },
     {
       "files": [],
       "description": "Please aes-decrypt the flag for me:\nkey: `8e29bd9f7a4f50e2485acd455bd6595ee1c6d029c8b3ef82eba0f28e59afcf9f`\nciphertext: `abcdd57efb034baf82fc1920a618e6a7fa496e319b4db1746b7d7e3d1198f64f`\n",
       "author": "hellopir2",
-      "points": 168,
+      "points": 163,
       "id": "bcds-crypto-aesy",
       "name": "aesy",
       "category": "crypto",
-      "solves": 325
+      "solves": 338
     },
     {
       "files": [
@@ -968,11 +968,11 @@
       ],
       "description": "Client side rendered python turtle sculptures, why don't we play around with them.\n\nRemote (for use in admin bot): [https://amateurs-ctf-2024-sculpture-challenge.pages.dev](https://amateurs-ctf-2024-sculpture-challenge.pages.dev)\n[Admin Bot](http://admin-bot.amt.rs/sculpture)  \n\n",
       "author": "smashmaster",
-      "points": 312,
+      "points": 302,
       "id": "bcds-web-sculpture",
       "name": "sculpture",
       "category": "web",
-      "solves": 86
+      "solves": 95
     }
   ]
 }

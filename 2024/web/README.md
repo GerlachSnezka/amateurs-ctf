@@ -2,7 +2,7 @@
 
 List of challenges in this category:
 
-- denied - Solves: 849
-- agile-rut - Solves: 305
-- one-shot - Solves: 276
-- sculpture - Solves: 86
+- denied - Solves: 856
+- agile-rut - Solves: 311
+- one-shot - Solves: 282
+- sculpture - Solves: 95

@@ -2,4 +2,4 @@
 
 List of challenges in this category:
 
-- orz-larry - Solves: 32
+- orz-larry - Solves: 34

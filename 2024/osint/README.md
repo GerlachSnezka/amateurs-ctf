@@ -2,5 +2,5 @@
 
 List of challenges in this category:
 
-- bathroom-break - Solves: 357
-- cherry-blossoms - Solves: 245
+- bathroom-break - Solves: 365
+- cherry-blossoms - Solves: 255
