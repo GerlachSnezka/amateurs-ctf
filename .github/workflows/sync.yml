@@ -1,0 +1,13 @@
+name: Sync
+on:
+  push:
+  workflow_dispatch:
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: GerlachSnezka/writeups@main
+        with:
+          token: ${{ secrets.GH_ACCESS_TOKEN }}
